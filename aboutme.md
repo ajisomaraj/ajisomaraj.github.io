@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+A **data analyst** with 3 years of experience in multiple industries. An adaptable professional who specializes in business analytics, financial analysis, and managing complex projects. A 2018 Business Analytics graduate student of the University of Texas at Dallas interested in data analysis, and Professional Skills and Interests:
 
 ### my history
 
