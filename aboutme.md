@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Aji Somaraj
 subtitle: Data Scientist
 ---
 
