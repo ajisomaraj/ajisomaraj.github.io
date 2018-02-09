@@ -6,16 +6,16 @@ comments: true
 carbonads: true
 ---
 
-|    ![alt text]([pro1])  |   ![alt text][pro2]   | ![alt text][pro3]  |
+|    ![alt text][pro1] |   ![alt text][pro2]   | ![alt text][pro3]  |
 | -------------||:-------------:| -------------:|
 | ![alt text][pro4]      | right-aligned |$1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |   $1 |
 
-[pro1]: /img/pro1.png "Logo Title Text 2"
+[pro1]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro1.PNG "Logo Title Text 2"
 [pro2]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro2.PNG "Logo Title Text 2"
-[pro3]: https://ajisomaraj.github.io/img/pro3.png "Logo Title Text 2"
-[pro4]: https://ajisomaraj.github.io/img/pro4.png "Logo Title Text 2"
+[pro3]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro3.PNG "Logo Title Text 2"
+[pro4]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro4.PNG "Logo Title Text 2"
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
 
