@@ -13,7 +13,8 @@ carbonads: true
 | zebra stripes | are neat      |   $1 |
 
 
-
+|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
+|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) 
 
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
