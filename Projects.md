@@ -6,15 +6,11 @@ comments: true
 carbonads: true
 ---
 
-|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
-| -------------||:-------------:| -------------:|
-| [![pro1](img/pro4.PNG)](http://videoblocks.com)| right-aligned |$1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |   $1 |
-
 
 |    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
-|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) 
+|description 1|description 2|description3 |
+|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
+|description 1|description 2|description3 |
 
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
