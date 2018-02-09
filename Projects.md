@@ -13,7 +13,7 @@ carbonads: true
 | zebra stripes | |are neat      | |  $1 |
 
 [pro1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[pro2]: http://www.jithinjp.in/images/jithinjp.jpg "Logo Title Text 2"
+[pro2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 [pro3]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
