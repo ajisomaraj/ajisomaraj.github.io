@@ -12,7 +12,7 @@ carbonads: true
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |   $1 |
 
-[pro1]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro1.PNG "Logo Title Text 2"
+[pro1]: (img/pro1.PNG) "Logo Title Text 2"
 [pro2]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro2.PNG "Logo Title Text 2"
 [pro3]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro3.PNG "Logo Title Text 2"
 [pro4]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro4.PNG "Logo Title Text 2"
