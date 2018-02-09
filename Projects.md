@@ -28,9 +28,10 @@ carbonads: true
 
 ---
 
-|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
-|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
-|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](img/pro3.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)  |
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](img/pro3.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)  |
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](img/pro3.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)  |
+
 
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
