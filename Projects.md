@@ -6,13 +6,15 @@ comments: true
 carbonads: true
 ---
 
-|    ![alt text][pro1]  | |   ![alt text][pro1]   | | ![alt text][pro1]  |
+|    ![alt text][pro1]  | |   ![alt text][pro2]   | | ![alt text][pro3]  |
 | -------------|:---:|:-------------:|:---:| -------------:|
 | col 3 is      | |right-aligned | |$1600 |
 | col 2 is      | |centered      | |  $12 |
 | zebra stripes | |are neat      | |  $1 |
 
-
+[pro1]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[pro2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[pro2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
 
