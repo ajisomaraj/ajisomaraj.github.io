@@ -6,7 +6,7 @@ comments: true
 carbonads: true
 ---
 
-|    ![alt text][pro1] |   ![alt text][pro2]   | ![alt text][pro3]  |
+|    ![alt text](img/pro1.PNG) |   [![pro1](img/pro1.PNG)](http://videoblocks.com) | ![alt text][pro3]  |
 | -------------||:-------------:| -------------:|
 | ![alt text][pro4]      | right-aligned |$1600 |
 | col 2 is      | centered      |   $12 |
@@ -16,6 +16,8 @@ carbonads: true
 [pro2]: (img/pro2.PNG) "Logo Title Text 2"
 [pro3]: (img/pro3.PNG) "Logo Title Text 2"
 [pro4]: (img/pro4.PNG) "Logo Title Text 2"
+
+
 
 This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
 
