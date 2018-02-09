@@ -6,18 +6,6 @@ comments: true
 carbonads: true
 ---
 
-
-|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
-|description 1|description 2|description3 |
-|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
-|description 1|description 2|description3 |
-
-
-This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
-
-I'm also [**available for consulting**](/shiny), so feel free to [contact me](/contact) if it looks like we could work together. 
-
----
 ## Projects
 
 - **[Marketing Predictive Analytics to Increase Revenue for Hertz Car Rental](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)** - Worked collaboratively on a team of 4 in the Hertz’s car rental dataset using SAS to provide optimal pricing and marketing strategies for customer segments based on elasticity modeling, MARCOM evaluations, and linear regression, increasing the revenue by $43.1 million.  Check out a [demo online](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1). Available [on GitHub (https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1).
@@ -38,6 +26,14 @@ I'm also [**available for consulting**](/shiny), so feel free to [contact me](/c
 
 - **[lightsout](https://github.com/daattali/lightsout)** - An implementation of the puzzle game Lights Out using R. [Play the game online](https://daattali.com/shiny/lightsout/). Available [on CRAN](https://cran.r-project.org/package=lightsout) and [on GitHub](https://github.com/daattali/lightsout).
 
+---
+
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
+|    [![pro1](img/pro1.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)|   [![pro1](img/pro2.PNG)](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1) | [![pro1](https://public.tableau.com/profile/aji.somaraj#!/vizhome/CustomerStudy_0/Dashboard1)](http://videoblocks.com)  |
 
 
+This is a collection of some personal projects I've worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
+
+I'm also [**available for consulting**](/shiny), so feel free to [contact me](/contact) if it looks like we could work together. 
 ---
