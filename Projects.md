@@ -6,14 +6,14 @@ comments: true
 carbonads: true
 ---
 
-|    ![alt text][pro1]  |   ![alt text][pro2]   | ![alt text][pro3]  |
+|    ![alt text](pro1)  |   ![alt text][pro2]   | ![alt text][pro3]  |
 | -------------||:-------------:| -------------:|
 | ![alt text][pro4]      | right-aligned |$1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |   $1 |
 
 [pro1]: /img/pro1.png "Logo Title Text 2"
-[pro2]: https://ajisomaraj.github.io/img/pro2.png "Logo Title Text 2"
+[pro2]: https://github.com/ajisomaraj/ajisomaraj.github.io/blob/master/img/pro1.PNG "Logo Title Text 2"
 [pro3]: https://ajisomaraj.github.io/img/pro3.png "Logo Title Text 2"
 [pro4]: https://ajisomaraj.github.io/img/pro4.png "Logo Title Text 2"
 
