@@ -6,16 +6,13 @@ comments: true
 carbonads: true
 ---
 
-|    ![alt text](img/pro1.PNG) |   [![pro1](img/pro1.PNG)](http://videoblocks.com) | ![alt text][pro3]  |
+|    [![pro1](img/pro1.PNG)](http://videoblocks.com)|   [![pro1](img/pro2.PNG)](http://videoblocks.com) | [![pro1](img/pro3.PNG)](http://videoblocks.com)  |
 | -------------||:-------------:| -------------:|
-| ![alt text][pro4]      | right-aligned |$1600 |
+| [![pro1](img/pro4.PNG)](http://videoblocks.com)| right-aligned |$1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |   $1 |
 
-[pro1]: (img/pro1.PNG) "Logo Title Text 2"
-[pro2]: (img/pro2.PNG) "Logo Title Text 2"
-[pro3]: (img/pro3.PNG) "Logo Title Text 2"
-[pro4]: (img/pro4.PNG) "Logo Title Text 2"
+
 
 
 
